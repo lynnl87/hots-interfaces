@@ -1,0 +1,13 @@
+{
+  "name" : "hots-interfaces",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "dependencies": {
+    "typescript": "^4.6.4"
+  },
+  "scripts" : {
+    "build": "tsc"
+  }
+}
